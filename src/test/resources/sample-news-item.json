@@ -1,0 +1,74 @@
+        {
+        	"source" : {
+        		"name" : {
+        			"shortName" : "AP",
+        			"longName" : "Associated Press",
+        			"nameChanges" : "5",
+        			"isFree" : "false"
+        		}
+        	},
+            "headline": "32 years later, Pitino and Krzyzewski meet again",
+            "tags": "duke,lou,news,m-baskbl,story,acc_team,acc_auto_approved",
+            "uid": "stats-news-item-20130330172427938780108",
+            "assets": [
+                {
+                    "links": [
+                        {
+                            "rel": "original",
+                            "url": "http://ftp.acc.uglabs.net/acc/stats/cbk_editorial/201303301351498747698-p2.jpeg"
+                        }
+                    ],
+                    "type": "image"
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "original",
+                            "url": "http://ftp.acc.uglabs.net/acc/stats/cbk_editorial/201303301401504807767-p2.jpeg"
+                        }
+                    ],
+                    "type": "image"
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "original",
+                            "url": "http://ftp.acc.uglabs.net/acc/stats/cbk_editorial/201303301420516097836-p2.jpeg"
+                        }
+                    ],
+                    "type": "image"
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "original",
+                            "url": "http://ftp.acc.uglabs.net/acc/stats/cbk_editorial/201303301413512287810-p2.jpeg"
+                        }
+                    ],
+                    "type": "image"
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "original",
+                            "url": "http://ftp.acc.uglabs.net/acc/stats/cbk_editorial/201303301415513577815-p2.jpeg"
+                        }
+                    ],
+                    "type": "image"
+                },
+                {
+                    "links": [
+                        {
+                            "rel": "original",
+                            "url": "http://ftp.acc.uglabs.net/acc/stats/cbk_editorial/201303301405507297787-p2.jpeg"
+                        }
+                    ],
+                    "type": "image"
+                }
+            ],
+            "text": "INDIANAPOLIS (AP) Mike Krzyzewski and Rick Pitino are finally doing an encore.   �۩�For the first time since their teams played perhaps the greatest game in the history of the NCAA tournament, Krzyzewski and Pitino meet in the regional finals of the NCAA tournament Sunday when top-seeded Louisville faces Duke for a trip to the Final Four.   �۩�Never mind that few of their current players were even born in 1992. Or that Pitino is no longer at Kentucky, having switched sides in the state's civil war after his brief trip to Boston and the NBA ended badly.   �۩�Krzyzewski and Pitino are forever linked by that one game in Philadelphia, immortalized by Christian Laettner's improbable shot.",
+            "byline": "By NANCY ARMOUR",
+            "textWithHtml": "&lt;html&gt; &lt;head&gt;&lt;/head&gt;  &lt;body&gt;   &lt;p&gt;INDIANAPOLIS (AP) Mike Krzyzewski and Rick Pitino are finally doing an encore.&lt;/p&gt;   &lt;p&gt;For the first time since their teams played perhaps the greatest game in the history of the NCAA tournament, Krzyzewski and Pitino meet in the regional finals of the NCAA tournament Sunday when top-seeded Louisville faces Duke for a trip to the Final Four.&lt;/p&gt;   &lt;p&gt;Never mind that few of their current players were even born in 1992. Or that Pitino is no longer at Kentucky, having switched sides in the state's civil war after his brief trip to Boston and the NBA ended badly.&lt;/p&gt;   &lt;p&gt;Krzyzewski and Pitino are forever linked by that one game in Philadelphia, immortalized by Christian Laettner's improbable shot.&lt;/p&gt;   &lt;/body&gt;&lt;/html&gt;",
+            "lastEditDate": "2013-03-30T21:27:00.000Z",
+            "type": "story"
+        }
