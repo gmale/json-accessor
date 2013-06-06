@@ -151,6 +151,6 @@
             "type": "story"
         }
     ],
-    type: "News",
-	uid: "stats-news-acc-m-baskbl"
+    "type": "News",
+	"uid": "stats-news-acc-m-baskbl"
 }

@@ -17,11 +17,11 @@ public class JsonAccessor {
 	
 	/**  @see #getKeyPathRecursively(String, Object) */
 	public Object getKeyPath(String keyPath, JSONObject jsonObject) {
-		return getKeyPath(keyPath, jsonObject);
+		return getKeyPathRecursively(keyPath, jsonObject);
 	}
 	/**  @see #getKeyPathRecursively(String, Object) */
 	public Object getKeyPath(String keyPath, JSONArray jsonArray) {
-		return getKeyPath(keyPath, jsonArray);
+		return getKeyPathRecursively(keyPath, jsonArray);
 	}
 	/**  @see #getKeyPathRecursively(String, Object) */
 	public Object getKeyPath(String keyPath, JSONObject json, Object defaultValue) {
